@@ -1,0 +1,40 @@
+#
+# Wavefront material file: d:\backup\gotovi modeli\camel\camel-obj.mtl
+#
+# Converted by the PolyTrans geometry converter from Okino Computer Graphics, Inc.
+# Date/time of export: 04/10/2006 20:15:36
+#
+# Bounding box of geometry = (-38.8418,-113.581,-171.394) to (61.7022,101.533,445.429).
+
+newmtl default
+	Ns 32
+	d 1
+	illum 2
+	Kd 0.4 0.4 0.4
+	Ks 0.7 0.7 0.7
+	Ka 0.3 0.3 0.3
+
+newmtl 01___Default
+	Ns 3
+	d 1
+	illum 2
+	Kd 0.6 0.6 0.6
+	Ks 0.09 0.09 0.09
+	Ka 0.6 0.6 0.6
+
+newmtl 02___Default
+	Ns 14
+	d 1
+	illum 2
+	Kd 0.254902 0.254902 0.254902
+	Ks 0.495 0.495 0.495
+	Ka 0.254902 0.254902 0.254902
+
+newmtl 12___Default
+	Ns 5
+	d 1
+	illum 2
+	Kd 0.6 0.6 0.6
+	Ks 0.198 0.198 0.198
+	Ka 0.6 0.6 0.6
+
